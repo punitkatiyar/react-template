@@ -1,5 +1,5 @@
 # react temaplte
 
-<imf src="./template.PNG" width="100%">
+<img src="./template.PNG" width="100%" alt="template"/>
 
 [view template](https://punitkatiyar.github.io/react-template/dist/)
